@@ -1,3 +1,6 @@
+// readability.c utilizes the Coleman-Liau equation for calculating the grade-level of an inputted text. For specifications, view: https://cs50.harvard.edu/x/2022/psets/2/readability/
+
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
