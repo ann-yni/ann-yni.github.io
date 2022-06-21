@@ -1,3 +1,6 @@
+// tideman.c tabulates the winner of a tideman election implementing a recursive loop. For specifications, visit: https://cs50.harvard.edu/x/2022/psets/3/tideman/
+
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
