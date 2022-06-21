@@ -1,3 +1,6 @@
+// scrabble.c calculates scores of two players in Scrabble and prints the winning player. For specifications, view: https://cs50.harvard.edu/x/2022/labs/2/
+
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>
