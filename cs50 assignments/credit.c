@@ -25,7 +25,7 @@ int main(void)
             prefix = card;
         }
 
-        // calculcate Luhn's Algorithm p1
+        // calculate Luhn's Algorithm p1
         if (digits % 2 == 0)
         {
             remainder = remainder * 2;
@@ -33,7 +33,7 @@ int main(void)
             even = even + remainder;
         }
 
-        // calculcate Luhn's Algorithm p2
+        // calculate Luhn's Algorithm p2
         else if (digits % 2 > 0)
         {
             luhns = luhns + remainder;
