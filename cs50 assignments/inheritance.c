@@ -1,5 +1,3 @@
-// inheritance.c utilizes memory and pointers in C to create a family tree with randomized alleles.
-
 // Simulate genetic inheritance of blood type
 
 #include <stdbool.h>
