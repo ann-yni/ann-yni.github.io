@@ -1,4 +1,4 @@
-// plurality.c calculates the votes and winning candidate of an election. For specificatons, view: https://cs50.harvard.edu/x/2022/psets/3/plurality/
+// 6th Assignment. plurality.c calculates the votes and winning candidate of an election. For specificatons, view: https://cs50.harvard.edu/x/2022/psets/3/plurality/
 
 
 #include <cs50.h>
