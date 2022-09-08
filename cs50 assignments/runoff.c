@@ -1,4 +1,4 @@
-// runoff.c tabulates the scores and winning candidate of a runoff election. For specifications, view: https://cs50.harvard.edu/x/2022/psets/3/runoff/
+// 7th Assignment. runoff.c tabulates the scores and winning candidate of a runoff election. For specifications, view: https://cs50.harvard.edu/x/2022/psets/3/runoff/
 
 
 #include <cs50.h>
