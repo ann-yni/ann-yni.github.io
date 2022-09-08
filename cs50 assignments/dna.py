@@ -1,3 +1,5 @@
+#16th Assignment. dna.py utilized a dictionary to read a DNA sequence and compare against given DNA sets to identify a match. For specifications: https://cs50.harvard.edu/x/2022/psets/6/dna/
+
 import csv
 import sys
 
