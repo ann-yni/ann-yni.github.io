@@ -1,3 +1,5 @@
+#15th Assigment. readability.py is a reimplementation of readability.c in python.
+
 # TODO
 from cs50 import get_string
 # ask user to input text passage
