@@ -1,3 +1,5 @@
+#12th Assignment. dictionary.c was utilized to spell-check a given text against a provided dictionary by hashing dictionary entries. For specifications: https://cs50.harvard.edu/x/2022/psets/5/speller/
+
 // Implements a dictionary's functionality
 
 #include <ctype.h>
