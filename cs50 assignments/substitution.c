@@ -1,4 +1,4 @@
-// substitution.c translates text based on a inputted cipher alphabet. For specifications, view: https://cs50.harvard.edu/x/2022/psets/2/substitution/
+// 5th Assignment. substitution.c translates text based on a inputted cipher alphabet. For specifications, view: https://cs50.harvard.edu/x/2022/psets/2/substitution/
 
 
 #include <cs50.h>
