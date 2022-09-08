@@ -1,4 +1,4 @@
-// mario.c prints pyramids to mimic the Mario game environment. For specifications, view: https://cs50.harvard.edu/x/2022/psets/1/mario/more/
+// 1st Assignment. mario.c prints pyramids to mimic the Mario game environment. For specifications, view: https://cs50.harvard.edu/x/2022/psets/1/mario/more/
 
 
 #include <cs50.h>
