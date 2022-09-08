@@ -1,3 +1,5 @@
+# 11th Assignment. inheritance.c utilized pointers to track passing alleles through generations. For specifications: https://cs50.harvard.edu/x/2022/labs/5/
+
 // Simulate genetic inheritance of blood type
 
 #include <stdbool.h>
