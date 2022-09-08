@@ -1,3 +1,5 @@
+#14th Assignment. credit.py is a reimplementation of credit.c in python.
+
 # TODO
 from cs50 import get_string
 
