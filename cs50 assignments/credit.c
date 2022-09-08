@@ -1,4 +1,4 @@
-// credit.c checks if an inputted credit number is a valid credit card type. For specifications, view: https://cs50.harvard.edu/x/2022/psets/1/credit/
+// 2nd Assignment. credit.c checks if an inputted credit number is a valid credit card type. For specifications, view: https://cs50.harvard.edu/x/2022/psets/1/credit/
 
 
 #include <cs50.h>
