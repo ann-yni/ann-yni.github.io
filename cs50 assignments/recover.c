@@ -1,3 +1,5 @@
+#10th Assignment. recover.c recovers JPEGs from a forensic image. For specifications: https://cs50.harvard.edu/x/2022/psets/4/recover/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
