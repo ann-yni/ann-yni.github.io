@@ -1,3 +1,5 @@
+# 9th Assignment. helpers.c is part of a program with blur, gray-scale, reflect, and edge filters to be applied to an image bitmap. For specifications: https://cs50.harvard.edu/x/2022/psets/4/filter/more/
+
 #include "helpers.h"
 #include <math.h>
 #include <stdio.h>
