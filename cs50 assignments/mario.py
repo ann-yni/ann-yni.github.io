@@ -1,3 +1,5 @@
+#13th Assignment. mario.py is a reimplementation of mario.c in python.
+
 # TODO
 from cs50 import get_int
 
