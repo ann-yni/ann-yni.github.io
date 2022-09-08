@@ -1,3 +1,5 @@
+-- 17th Assignment. log.db is part of the Fiftyville assignment, showing SQL queries to solve the given mystery. For Specifications: https://cs50.harvard.edu/x/2022/psets/7/fiftyville/
+
 -- Keep a log of any SQL queries you execute as you solve the mystery.
 -- locate the crime scene report of the incident - hint: "the theft took place on July 28th, 2021 on Humphrey Street"
  SELECT description
