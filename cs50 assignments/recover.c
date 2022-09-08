@@ -1,5 +1,3 @@
-// recover.c opens, reads, and writes files to recover photos from a given camera card.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
